@@ -1,0 +1,19 @@
+.header, .hero, .body, .content, .footer{
+    background-color: pink;
+    margin-bottom: 10px;
+}
+.box{
+    min-height: 90px;
+    margin-bottom: 10px;
+    margin: 10px 0;
+    background-color: red;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
+.red{
+    background-color: black;
+}
+.fiv{
+    background-color: palevioletred;
+}
